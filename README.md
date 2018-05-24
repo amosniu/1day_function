@@ -14,4 +14,4 @@ python中的global语句是被用来声明是全局的，所以在函数内把�
 def func2():
     return x
 ```
-这里看到fun2函数return返回值是全局变量x，即返回1
+这里看到func2函数return返回值是全局变量x，即返回1
